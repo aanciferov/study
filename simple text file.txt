@@ -1,2 +1,3 @@
-It is first line.
+It is first line. (First line is changed)
 It is second line.
+Third line is added.
